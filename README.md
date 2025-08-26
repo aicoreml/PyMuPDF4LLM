@@ -11,20 +11,6 @@ This application extracts text and tables from PDF files, including both text-ba
 - User-friendly web interface built with Streamlit
 - Combines all extracted content into a single downloadable file
 
-## File Structure
-
-```
-PyMuPDF4LLM/
-├── .env
-├── app_pymupdf4llm_tesseract.py
-├── ert_notes.txt
-├── flow.md
-├── requirements.txt
-└── output_tesseract/
-    ├── extracted_content_DE.md
-    └── extracted_content_EN.md
-```
-
 ## Installation
 
 1. Clone this repository:
