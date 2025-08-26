@@ -62,14 +62,6 @@ PyMuPDF4LLM/
 1. Displays extracted content in the Streamlit interface in categorized sections
 2. Provides download button for combined markdown content
 
-### 4. Output: `output_tesseract/`
-- Contains sample processed output in markdown format
-- `extracted_content_DE.md`: German language content extraction example
-- `extracted_content_EN.md`: English language content extraction example
-
-## Development Notes
-- Development notes with instructions for running the application have been removed from version control for security
-
 ## Data Flow Diagram
 ```mermaid
 graph TD
