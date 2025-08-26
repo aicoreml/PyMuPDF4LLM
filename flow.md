@@ -8,7 +8,6 @@ This document describes the programming flow and structure of the PDF Extractor 
 PyMuPDF4LLM/
 ├── .env
 ├── app_pymupdf4llm_tesseract.py
-├── ert_notes.txt
 ├── flow.md
 └── output_tesseract/
     ├── extracted_content_DE.md
@@ -69,7 +68,7 @@ PyMuPDF4LLM/
 - `extracted_content_EN.md`: English language content extraction example
 
 ## Development Notes
-- `ert_notes.txt`: Contains development notes with instructions for running the application
+- Development notes with instructions for running the application have been removed from version control for security
 
 ## Data Flow Diagram
 ```mermaid
