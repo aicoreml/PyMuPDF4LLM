@@ -1,0 +1,10 @@
+# Git Ignore File
+
+*.pyc
+__pycache__/
+.env
+*.log
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
