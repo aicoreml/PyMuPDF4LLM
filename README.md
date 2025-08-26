@@ -1,4 +1,4 @@
-# PDF Extractor with OCR
+# PyMuPDF4LLM PDF Extractor
 
 This application extracts text and tables from PDF files, including both text-based and image-based PDFs. It uses PyMuPDF4LLM for text/table extraction and Tesseract OCR for image-based text recognition.
 
@@ -62,10 +62,6 @@ This application extracts text and tables from PDF files, including both text-ba
 - NumPy 1.24.0+
 - Pillow 10.0.0+
 - Pytesseract 0.3.10+
-
-## Development Notes
-
-For development and testing instructions, see `ert_notes.txt`.
 
 ## Sample Outputs
 
