@@ -1,6 +1,0 @@
-Start:
-
-cmd (Anaconda prompt)
-conda activate qwen3-coder
-cd c:\DATA\QWEN3-CODER\PyMuPDF4LLM
-streamlit run app_pymupdf4llm.py
